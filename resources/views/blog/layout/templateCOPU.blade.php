@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>BLOG LESLY Y URIEL </title>
+		<title>BLOG LESLY IBARRA Y URIEL ENCISO </title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="/css/main.css" />
