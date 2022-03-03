@@ -20,7 +20,7 @@
 				<!-- Header -->
 					<header id="header" class="alt">
 						<span class="logo"><img src="images/logo.svg" alt="" /></span>
-						<h1>BLOG LESLY Y URIEL </h1>
+						<h1>BLOG LESLY IBARRA Y URIEL ENCISO </h1>
 						<H2>UNIDAD 3</H2>
 							</header>
 
